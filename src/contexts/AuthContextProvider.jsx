@@ -17,6 +17,8 @@ const AuthContextProvider = ({ children }) => {
         })
     }, [user, history])
 
+    
+
     return (
         <AuthContext.Provider value={user}>
             {!loading && children}
