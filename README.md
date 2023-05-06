@@ -1,4 +1,5 @@
 iMessenger
+
 This is a messenger app built using React, Firebase, and React Chat Engine. The app allows users to sign up, log in, and chat with other users in real-time.
 
 Features
