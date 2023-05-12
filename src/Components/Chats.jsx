@@ -79,8 +79,5 @@ const Chats = () => {
   );
 };
 
-let currentDate = new Date();
-if (currentDate === "2000/08/10")
-    ++age;
 
 export default Chats;
